@@ -1,6 +1,6 @@
-# django-todolist
+# django-app
 
-Simple todolist write in django for general use and pipeline automation..
+Simple app write in django for general use and pipeline automation..
 
   - Be kind with my baby
 
@@ -23,7 +23,7 @@ Dillinger uses a number of open source projects to work properly:
 Install the dependencies and start the server.
 
 ```sh
-$ cd django-todolist
+$ cd django-app
 $ pip install -r requirements.txt
 $ python manage.py migrate # Running the migrations
 $ python manage.py createsuperuser # Create a superuser
